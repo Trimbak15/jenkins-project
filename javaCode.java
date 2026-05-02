@@ -1,4 +1,4 @@
-public class Main {
+public class javaCode {
     // The main method: the starting point of the program
     public static void main(String[] args) {
         // Variables and Data Types
